@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AThousandYear
-- 👀 I’m interested in code
-- 🌱 I’m currently learning AI，python，web
-- 💞️ I’m looking to collaborate on you
+- 👀 
+- 🌱 I’m currently learning AI，python，web，unity＆unreal
+- 💞️ 
 - 📫 How to reach me ：QQ342775442
 
 <!---
